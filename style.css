@@ -70,7 +70,7 @@
 
 .card
 {
-    border: 1px dashed green;
+    border: 1px solid green;
     padding: 2%;
     margin: 10px;
     border-radius: 20px;
@@ -81,7 +81,7 @@
 
 #loadarea
 {   
-    border: 1px dashed green;
+    border: 1px solid green;
     margin: 1% 0%;
     display: inline-flex;
     flex-wrap:wrap;
@@ -106,7 +106,7 @@ p
 .avatar
 {
     border-radius: 10px;
-    border: 1px dotted green;
+    border: 1px dashed green;
 }
 
 footer
