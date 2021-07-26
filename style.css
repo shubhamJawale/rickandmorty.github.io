@@ -81,7 +81,7 @@
 
 #loadarea
 {   
-    border: 1px solid green;
+    border: 1px dashed green;
     margin: 1% 0%;
     display: inline-flex;
     flex-wrap:wrap;
