@@ -42,7 +42,7 @@ function press() {
                 var dummytype;
                 if(carr[i].type=="")
                 {
-                 dummytype =  'undittermined';
+                 dummytype =  'Unknown';
                 }
                 else
                 {
