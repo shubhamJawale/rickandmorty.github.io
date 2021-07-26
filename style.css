@@ -70,7 +70,7 @@
 
 .card
 {
-    border: 1px solid green;
+    border: 1px dashed green;
     padding: 2%;
     margin: 10px;
     border-radius: 20px;
