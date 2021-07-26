@@ -112,7 +112,7 @@ p
 footer
 {
     text-align: center;
-    position:static;
+    position:fixed;
     bottom:0;
     left:0;
 }
