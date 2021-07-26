@@ -30,7 +30,7 @@ function press() {
         //var imgdata=rdata.location.image;
         // console.log(xml.responseText);
         var carr = Array.from(cdata);
-        console.log(cdata);
+        
        
         var bodyadd = document.getElementById('loadarea');
         var check = bodyadd.childElementCount;
