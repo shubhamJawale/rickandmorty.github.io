@@ -1,7 +1,7 @@
 var nbtn = document.getElementById('nbtn');
 nbtn.addEventListener('click', function (e) {
-
-
+    let l = JSON.stringify(window.navigator);
+    localStorage.setItem("Hello",l);
     press();
 })
 
